@@ -1,8 +1,8 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAPCAT2Q3DQVC6GMAJDERFRW4JMJDAIS7L7DX23XRDGHZPWFQUYPQATE",
-"GBPDZ2SVJ3LHUEHRDLWXB3DCYRT7BLVAGGCSIYTJ7AKBFCXWYWW54FYH"
+"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
+"GBKRJAZFUWMEQB7ZDCSMPKMICGK32H7NOGMBICESYT3B4GKY7BUOW4VB"
 ]
 VERSION="2.0.0"
 
@@ -15,7 +15,7 @@ ORG_OFFICIAL_EMAIL="XLMCOLA@tutanota.com"
 
 [[CURRENCIES]]
 code="XLMCOLA"
-issuer="GBPDZ2SVJ3LHUEHRDLWXB3DCYRT7BLVAGGCSIYTJ7AKBFCXWYWW54FYH"
+issuer="GBKRJAZFUWMEQB7ZDCSMPKMICGK32H7NOGMBICESYT3B4GKY7BUOW4VB"
 anchor_asset="false"
 name="Stellar Cola"
 desc="Stellar Cola [XLMCOlA], Coca-Cola, or Coke, is a carbonated soft drink manufactured by The Coca-Cola Company. Originally marketed as a temperance drink and intended as a patent medicine, it was invented in the late 19th century by John Stith Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients: coca leaves, and kola nuts (a source of caffeine). "
