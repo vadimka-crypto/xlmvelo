@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GBKRJAZFUWMEQB7ZDCSMPKMICGK32H7NOGMBICESYT3B4GKY7BUOW4VB"
+"GD46GYILIGKHDEGEN4UT2LBC6BQYFTBC3VXTJUXASMD7XRADMZZMQUNR"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMCOLA"
-ORG_TWITTER="@XLMCOLA"
-ORG_LOGO="https://i.ibb.co/RhwmXTN/coca-cola-logo-6020cc7dd3041.png"
-ORG_OFFICIAL_EMAIL="XLMCOLA@tutanota.com"
+ORG_NAME="XLMMATIC"
+ORG_TWITTER="@XLMMATIC"
+ORG_LOGO="https://i.ibb.co/cCmmR97/polygon-matic-logo.png"
+ORG_OFFICIAL_EMAIL="XLMMATIC@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMCOLA"
-issuer="GBKRJAZFUWMEQB7ZDCSMPKMICGK32H7NOGMBICESYT3B4GKY7BUOW4VB"
+code="XLMMATIC"
+issuer="GD46GYILIGKHDEGEN4UT2LBC6BQYFTBC3VXTJUXASMD7XRADMZZMQUNR"
 anchor_asset="false"
-name="Stellar Cola"
-desc="Stellar Cola [XLMCOlA], Coca-Cola, or Coke, is a carbonated soft drink manufactured by The Coca-Cola Company. Originally marketed as a temperance drink and intended as a patent medicine, it was invented in the late 19th century by John Stith Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients: coca leaves, and kola nuts (a source of caffeine). "
-conditions="There will only ever be 5.000.000 XLMTCOLA tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/RhwmXTN/coca-cola-logo-6020cc7dd3041.png"
+name="Stellar Matic"
+desc="Stellar Matic [XLMMATIC],  We are a team passionate about decentralization and better products. The current decentralized eco-system lacks usability and convenience. Decentralized transactions are slow, expensive and complex. "
+conditions="There will only ever be 5.000.000 XLMMATIC tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/cCmmR97/polygon-matic-logo.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMCOLA was issued using the open and inclusive Stellar blockchain network.
+#XLMMATIC was issued using the open and inclusive Stellar blockchain network.
