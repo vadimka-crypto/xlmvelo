@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GBBQOHWO3ZMUDDFXFKEIUSSWYBK5ZYFU52WT2WZVTD4S3BC7D7GDSQSN"
+"GD4IQHVS3KI2HG3RKF72JIFILK7AAP6DZ53VPVXZX7EN3JRJXREAXEZF"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMETC"
-ORG_TWITTER="@XLMETC"
-ORG_LOGO="https://i.ibb.co/zsBDZNh/ethereum-classic-etc-logo.png"
-ORG_OFFICIAL_EMAIL="XLMMATIC@tutanota.com"
+ORG_NAME="XLMTRUST"
+ORG_TWITTER="@XLMTRUST"
+ORG_LOGO="https://i.ibb.co/0BDswj3/TWT.png"
+ORG_OFFICIAL_EMAIL="XLMTRUST@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMETC"
-issuer="GBBQOHWO3ZMUDDFXFKEIUSSWYBK5ZYFU52WT2WZVTD4S3BC7D7GDSQSN"
+code="XLMTRUST"
+issuer="GD4IQHVS3KI2HG3RKF72JIFILK7AAP6DZ53VPVXZX7EN3JRJXREAXEZF"
 anchor_asset="false"
-name="Stellar Ethereum Classic"
-desc="Stellar Ethereum Classic [XLMETC],Stellar Ethereum Classic is an open source, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions executed on a public Ethereum Virtual Machine (EVM).   "
-conditions="There will only ever be 5.000.000 XLMETC tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/zsBDZNh/ethereum-classic-etc-logo.png"
+name="Stellar Trust"
+desc="Stellar Trust [XLMTRUST], Stellar Trust are tokens based on TRUST WALLET and XLM cryptocurrency  that supports for all Ethereum tokens (ERC20, ERC223, and ERC721), and is available for IOS and Android. It is an open source, decentralized, an anonymous cryptocurrency wallet that was officially released in November, 2017.  "
+conditions="There will only ever be 5.000.000 XLMTRUST tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/0BDswj3/TWT.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMETC was issued using the open and inclusive Stellar blockchain network.
+#XLMTRUST was issued using the open and inclusive Stellar blockchain network.
