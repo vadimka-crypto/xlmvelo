@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GD46GYILIGKHDEGEN4UT2LBC6BQYFTBC3VXTJUXASMD7XRADMZZMQUNR"
+"GBBQOHWO3ZMUDDFXFKEIUSSWYBK5ZYFU52WT2WZVTD4S3BC7D7GDSQSN"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMMATIC"
-ORG_TWITTER="@XLMMATIC"
-ORG_LOGO="https://i.ibb.co/cCmmR97/polygon-matic-logo.png"
+ORG_NAME="XLMETC"
+ORG_TWITTER="@XLMETC"
+ORG_LOGO="https://i.ibb.co/zsBDZNh/ethereum-classic-etc-logo.png"
 ORG_OFFICIAL_EMAIL="XLMMATIC@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMMATIC"
-issuer="GD46GYILIGKHDEGEN4UT2LBC6BQYFTBC3VXTJUXASMD7XRADMZZMQUNR"
+code="XLMETC"
+issuer="GBBQOHWO3ZMUDDFXFKEIUSSWYBK5ZYFU52WT2WZVTD4S3BC7D7GDSQSN"
 anchor_asset="false"
-name="Stellar Matic"
-desc="Stellar Matic [XLMMATIC],  We are a team passionate about decentralization and better products. The current decentralized eco-system lacks usability and convenience. Decentralized transactions are slow, expensive and complex. "
-conditions="There will only ever be 5.000.000 XLMMATIC tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/cCmmR97/polygon-matic-logo.png"
+name="Stellar Ethereum Classic"
+desc="Stellar Ethereum Classic [XLMETC],Stellar Ethereum Classic is an open source, blockchain-based distributed computing platform featuring smart contract (scripting) functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions executed on a public Ethereum Virtual Machine (EVM).   "
+conditions="There will only ever be 5.000.000 XLMETC tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/zsBDZNh/ethereum-classic-etc-logo.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMMATIC was issued using the open and inclusive Stellar blockchain network.
+#XLMETC was issued using the open and inclusive Stellar blockchain network.
