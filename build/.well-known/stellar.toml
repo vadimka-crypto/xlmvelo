@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GD3V36EVJB5TVMJ3BNVYZOIB4IEOC3UE5NTNQCJKRIYL6MBDMER6DUI7"
+"GDZGINPTBQZQZIOKZYQ2YOWUTNKTKKYLP4BQFUC3HRIWUSHAKLRFXUOA",
+"GAB72S6O3NPM2FTSUOREYE6REPKBWX5ZVAWWZY6MYQNU3SPMOHFWK4TB"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMMONERO"
-ORG_TWITTER="@XLMMONERO"
-ORG_LOGO="https://i.ibb.co/ngMSxDv/monero-logo-black-and-white.png"
-ORG_OFFICIAL_EMAIL="XLMMONERO@tutanota.com"
+ORG_NAME="XLMGOLDEN"
+ORG_TWITTER="@XLMGOLDEN"
+ORG_LOGO="https://i.ibb.co/hc1bxx1/moeda-estelar-isolada-em-branca-fundo-criptomoeda-xlm-ilustra-o-185890433.jpg"
+ORG_OFFICIAL_EMAIL="XLMGOLDEN@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMMONERO"
-issuer="GD3V36EVJB5TVMJ3BNVYZOIB4IEOC3UE5NTNQCJKRIYL6MBDMER6DUI7"
+code="XLMGOLDEN"
+issuer="GAB72S6O3NPM2FTSUOREYE6REPKBWX5ZVAWWZY6MYQNU3SPMOHFWK4TB"
 anchor_asset="false"
-name="Stellar Monero"
-desc="Stellar Monero [XLMMONERO], Monero  is a privacy-focused cryptocurrency released in 2014. It is an open-source protocol based on the CryptoNote application layer. It uses an obfuscated public ledger, meaning anyone can send or broadcast transactions, but no outside observer can tell the source, amount, or destination. A proof of work mechanism using the hash function RandomX is used to issue new coins and incentivize miners to secure the network and validate transactions.  "
-conditions="There will only ever be 5.000.000 XLMMONERO tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/ngMSxDv/monero-logo-black-and-white.png"
+name="Golden Lumens"
+desc="Golden Lumens [XLMGOLDEN],   "
+conditions="There will only ever be 5.000.000 XLMGOLDEN tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/hc1bxx1/moeda-estelar-isolada-em-branca-fundo-criptomoeda-xlm-ilustra-o-185890433.jpg"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMMONERO was issued using the open and inclusive Stellar blockchain network.
+#XLMGOLDEN was issued using the open and inclusive Stellar blockchain network.
