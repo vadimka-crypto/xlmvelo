@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDZGINPTBQZQZIOKZYQ2YOWUTNKTKKYLP4BQFUC3HRIWUSHAKLRFXUOA",
-"GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
+"GC5YNKWJCW7NLSW57VZDY2VGVGW7TXZXCDKXLBIKGSUZ5VLHT2HMDP24"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMPAY"
-ORG_TWITTER="@XLMPAY"
-ORG_LOGO="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
-ORG_OFFICIAL_EMAIL="XLMPAY@tutanota.com"
+ORG_NAME="XLMe"
+ORG_TWITTER="@XLMe"
+ORG_LOGO="https://i.ibb.co/2Ym98sz/emerald.jpg"
+ORG_OFFICIAL_EMAIL="XLMe@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMPAY"
-issuer="GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
+code="XLMe"
+issuer="GC5YNKWJCW7NLSW57VZDY2VGVGW7TXZXCDKXLBIKGSUZ5VLHT2HMDP24"
 anchor_asset="false"
-name="Stellar Pay"
-desc="Stellar Pay [XLMPAY],  Stellar pay is an advanced payment system based on XLM, which will replace XLM in the future. "
-conditions="There will only ever be 5.000.000 XLMPAY tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
+name="Stellar Emerald"
+desc="Stellar Emerald [XLMe],  Stellar Emerald is a gemstone lumens and a variety of the mineral beryl (Be3Al2(SiO3)6) colored green by trace amounts of chromium and/or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness (resistance to breakage) is classified as generally poor. Emerald is a cyclosilicate. "
+conditions="There will only ever be 5.000.000 XLMe tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/2Ym98sz/emerald.jpg"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMPAY was issued using the open and inclusive Stellar blockchain network.
+#XLMe was issued using the open and inclusive Stellar blockchain network.
