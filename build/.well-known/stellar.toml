@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GD4IQHVS3KI2HG3RKF72JIFILK7AAP6DZ53VPVXZX7EN3JRJXREAXEZF"
+"GD65YI5VAKFZRVGLPEXJKDWR64RSEKIDCLO37SKAKY6N3SKXT5VGVOLR"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMTRUST"
-ORG_TWITTER="@XLMTRUST"
-ORG_LOGO="https://i.ibb.co/0BDswj3/TWT.png"
-ORG_OFFICIAL_EMAIL="XLMTRUST@tutanota.com"
+ORG_NAME="XLMBASE"
+ORG_TWITTER="@XLMBASE"
+ORG_LOGO="https://i.ibb.co/vBx39P3/coinbase.png"
+ORG_OFFICIAL_EMAIL="XLMBASE@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMTRUST"
-issuer="GD4IQHVS3KI2HG3RKF72JIFILK7AAP6DZ53VPVXZX7EN3JRJXREAXEZF"
+code="XLMBASE"
+issuer="GD65YI5VAKFZRVGLPEXJKDWR64RSEKIDCLO37SKAKY6N3SKXT5VGVOLR"
 anchor_asset="false"
-name="Stellar Trust"
-desc="Stellar Trust [XLMTRUST], Stellar Trust are tokens based on TRUST WALLET and XLM cryptocurrency  that supports for all Ethereum tokens (ERC20, ERC223, and ERC721), and is available for IOS and Android. It is an open source, decentralized, an anonymous cryptocurrency wallet that was officially released in November, 2017.  "
-conditions="There will only ever be 5.000.000 XLMTRUST tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/0BDswj3/TWT.png"
+name="Stellar Coinbase"
+desc="Stellar Coinbase [XLMBASE] is an American company that operates a cryptocurrency exchange platform. Coinbase operates remote-first, and lacks an official physical headquarters. The company was founded in 2012 by Brian Armstrong and Fred Ehrsam, and as of March 2021, was the largest cryptocurrency exchange in the United States by trading volume.  "
+conditions="There will only ever be 5.000.000 XLMBASE tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/vBx39P3/coinbase.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMTRUST was issued using the open and inclusive Stellar blockchain network.
+#XLMBASE was issued using the open and inclusive Stellar blockchain network.
