@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GC5YNKWJCW7NLSW57VZDY2VGVGW7TXZXCDKXLBIKGSUZ5VLHT2HMDP24"
+"GBP22EUTOAIDD3UPOVESY5INQ7BPY2DHSQTFMVVHBH3G4FM2APFYKGAM"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMe"
-ORG_TWITTER="@XLMe"
-ORG_LOGO="https://i.ibb.co/2Ym98sz/emerald.jpg"
-ORG_OFFICIAL_EMAIL="XLMe@tutanota.com"
+ORG_NAME="XLMn"
+ORG_TWITTER="@XLMn"
+ORG_LOGO="https://i.ibb.co/ss4fjMW/nano-coin-logo.png"
+ORG_OFFICIAL_EMAIL="XLMn@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMe"
-issuer="GC5YNKWJCW7NLSW57VZDY2VGVGW7TXZXCDKXLBIKGSUZ5VLHT2HMDP24"
+code="XLMn"
+issuer="GBP22EUTOAIDD3UPOVESY5INQ7BPY2DHSQTFMVVHBH3G4FM2APFYKGAM"
 anchor_asset="false"
-name="Stellar Emerald"
-desc="Stellar Emerald [XLMe],  Stellar Emerald is a gemstone lumens and a variety of the mineral beryl (Be3Al2(SiO3)6) colored green by trace amounts of chromium and/or sometimes vanadium. Beryl has a hardness of 7.5–8 on the Mohs scale. Most emeralds are highly included, so their toughness (resistance to breakage) is classified as generally poor. Emerald is a cyclosilicate. "
-conditions="There will only ever be 5.000.000 XLMe tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/2Ym98sz/emerald.jpg"
+name="Stellar Nano"
+desc="Stellar Nano [XLMn],  Stellar Nano is   "
+conditions="There will only ever be 5.000.000 XLMn tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/ss4fjMW/nano-coin-logo.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMe was issued using the open and inclusive Stellar blockchain network.
+#XLMn was issued using the open and inclusive Stellar blockchain network.
