@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GD65YI5VAKFZRVGLPEXJKDWR64RSEKIDCLO37SKAKY6N3SKXT5VGVOLR"
+"GD3V36EVJB5TVMJ3BNVYZOIB4IEOC3UE5NTNQCJKRIYL6MBDMER6DUI7"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMBASE"
-ORG_TWITTER="@XLMBASE"
-ORG_LOGO="https://i.ibb.co/vBx39P3/coinbase.png"
-ORG_OFFICIAL_EMAIL="XLMBASE@tutanota.com"
+ORG_NAME="XLMMONERO"
+ORG_TWITTER="@XLMMONERO"
+ORG_LOGO="https://i.ibb.co/ngMSxDv/monero-logo-black-and-white.png"
+ORG_OFFICIAL_EMAIL="XLMMONERO@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMBASE"
-issuer="GD65YI5VAKFZRVGLPEXJKDWR64RSEKIDCLO37SKAKY6N3SKXT5VGVOLR"
+code="XLMMONERO"
+issuer="GD3V36EVJB5TVMJ3BNVYZOIB4IEOC3UE5NTNQCJKRIYL6MBDMER6DUI7"
 anchor_asset="false"
-name="Stellar Coinbase"
-desc="Stellar Coinbase [XLMBASE] is an American company that operates a cryptocurrency exchange platform. Coinbase operates remote-first, and lacks an official physical headquarters. The company was founded in 2012 by Brian Armstrong and Fred Ehrsam, and as of March 2021, was the largest cryptocurrency exchange in the United States by trading volume.  "
-conditions="There will only ever be 5.000.000 XLMBASE tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/vBx39P3/coinbase.png"
+name="Stellar Monero"
+desc="Stellar Monero [XLMMONERO], Monero  is a privacy-focused cryptocurrency released in 2014. It is an open-source protocol based on the CryptoNote application layer. It uses an obfuscated public ledger, meaning anyone can send or broadcast transactions, but no outside observer can tell the source, amount, or destination. A proof of work mechanism using the hash function RandomX is used to issue new coins and incentivize miners to secure the network and validate transactions.  "
+conditions="There will only ever be 5.000.000 XLMMONERO tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/ngMSxDv/monero-logo-black-and-white.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMBASE was issued using the open and inclusive Stellar blockchain network.
+#XLMMONERO was issued using the open and inclusive Stellar blockchain network.
