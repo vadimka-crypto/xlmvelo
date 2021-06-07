@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GDZGINPTBQZQZIOKZYQ2YOWUTNKTKKYLP4BQFUC3HRIWUSHAKLRFXUOA",
-"GAB72S6O3NPM2FTSUOREYE6REPKBWX5ZVAWWZY6MYQNU3SPMOHFWK4TB"
+"GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMGOLDEN"
-ORG_TWITTER="@XLMGOLDEN"
-ORG_LOGO="https://i.ibb.co/hc1bxx1/moeda-estelar-isolada-em-branca-fundo-criptomoeda-xlm-ilustra-o-185890433.jpg"
-ORG_OFFICIAL_EMAIL="XLMGOLDEN@tutanota.com"
+ORG_NAME="XLMPAY"
+ORG_TWITTER="@XLMPAY"
+ORG_LOGO="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
+ORG_OFFICIAL_EMAIL="XLMPAY@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMGOLDEN"
-issuer="GAB72S6O3NPM2FTSUOREYE6REPKBWX5ZVAWWZY6MYQNU3SPMOHFWK4TB"
+code="XLMPAY"
+issuer="GAIT5PGZHBDXIUJ2J4WCRMVP4JO7B6JMPVZ7S3AKHHQ3A2GVOATE2OEI"
 anchor_asset="false"
-name="Golden Lumens"
-desc="Golden Lumens [XLMGOLDEN],   "
-conditions="There will only ever be 5.000.000 XLMGOLDEN tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/hc1bxx1/moeda-estelar-isolada-em-branca-fundo-criptomoeda-xlm-ilustra-o-185890433.jpg"
+name="Stellar Pay"
+desc="Stellar Pay [XLMPAY],  Stellar pay is an advanced payment system based on XLM, which will replace XLM in the future. "
+conditions="There will only ever be 5.000.000 XLMPAY tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/1TCLQHG/Stellar-Symbol.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMGOLDEN was issued using the open and inclusive Stellar blockchain network.
+#XLMPAY was issued using the open and inclusive Stellar blockchain network.
