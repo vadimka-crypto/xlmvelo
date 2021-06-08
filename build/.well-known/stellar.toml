@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GBP22EUTOAIDD3UPOVESY5INQ7BPY2DHSQTFMVVHBH3G4FM2APFYKGAM"
+"GDL2NJ3QLNS5ZQBSAVD6352LW2Z3OJWAZWKECDGNLSYTFN3OI5TST7TE"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMn"
-ORG_TWITTER="@XLMn"
-ORG_LOGO="https://i.ibb.co/ss4fjMW/nano-coin-logo.png"
+ORG_NAME="xSteamCoin"
+ORG_TWITTER="@xSteamCoin"
+ORG_LOGO="https://i.ibb.co/S0MgTzS/coin-single.png"
 ORG_OFFICIAL_EMAIL="XLMn@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMn"
-issuer="GBP22EUTOAIDD3UPOVESY5INQ7BPY2DHSQTFMVVHBH3G4FM2APFYKGAM"
+code="xSteamCoin"
+issuer="GDL2NJ3QLNS5ZQBSAVD6352LW2Z3OJWAZWKECDGNLSYTFN3OI5TST7TE"
 anchor_asset="false"
-name="Stellar Nano"
-desc="Stellar Nano [XLMn],  Stellar Nano is  formerly RaiBlocks (XRB), is a peer-to-peer digital currency. It is a decentralized, open-source cryptocurrency based on directed acyclic graph (DAG) architecture, and released under the FreeBSD License. It operates without intermediaries by using a distributed ledger with a block-lattice data structure "
-conditions="There will only ever be 5.000.000 XLMn tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/ss4fjMW/nano-coin-logo.png"
-fixed_number=5000000
-max_number=5000000
+name="Stellar SteamCoin"
+desc="Stellar SteamCoin [xSteamCoin],  Stellar SteamCoin is a token created by valve based on XLM to facilitate Steam purchases for games and to withdraw money from Steam to your crypto wallet. "
+conditions="There will only ever be 20.000.000 xSteamCoin tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/S0MgTzS/coin-single.png"
+fixed_number=20000000
+max_number=20000000
 is_unlimited=false
-#XLMn was issued using the open and inclusive Stellar blockchain network.
+#xSteamCoin was issued using the open and inclusive Stellar blockchain network.
