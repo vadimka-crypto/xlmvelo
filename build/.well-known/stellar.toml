@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GDL2NJ3QLNS5ZQBSAVD6352LW2Z3OJWAZWKECDGNLSYTFN3OI5TST7TE"
+"GAVIKR2BSFJQCBKX4RI7ZFKJWX4O7PQKBOKLVUTGHHCOREY27P6AYJAM"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="xSteamCoin"
-ORG_TWITTER="@xSteamCoin"
-ORG_LOGO="https://i.ibb.co/S0MgTzS/coin-single.png"
-ORG_OFFICIAL_EMAIL="XLMn@tutanota.com"
+ORG_NAME="xDota2"
+ORG_TWITTER="@xDota2"
+ORG_LOGO="https://i.ibb.co/xG2bzP6/c519d1e1dddd9a73b4760de071bf6e76.jpg"
+ORG_OFFICIAL_EMAIL="xDota2@tutanota.com"
 
 
 [[CURRENCIES]]
-code="xSteamCoin"
-issuer="GDL2NJ3QLNS5ZQBSAVD6352LW2Z3OJWAZWKECDGNLSYTFN3OI5TST7TE"
+code="xDota2"
+issuer="GAVIKR2BSFJQCBKX4RI7ZFKJWX4O7PQKBOKLVUTGHHCOREY27P6AYJAM"
 anchor_asset="false"
-name="Stellar SteamCoin"
-desc="Stellar SteamCoin [xSteamCoin],  Stellar SteamCoin is a token created by valve based on XLM to facilitate Steam purchases for games and to withdraw money from Steam to your crypto wallet. "
-conditions="There will only ever be 20.000.000 xSteamCoin tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/S0MgTzS/coin-single.png"
-fixed_number=20000000
-max_number=20000000
+name="Stellar Dota2"
+desc="Stellar Dota2 [xDota2],  Stellar Dota2 is a token created by valve based on XLM to support international 2021,all money will be transfered to proffesionals dota players on international 2021."
+conditions="There will only ever be 10.000.000 xSteamCoin tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/xG2bzP6/c519d1e1dddd9a73b4760de071bf6e76.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#xSteamCoin was issued using the open and inclusive Stellar blockchain network.
+#xDota2 was issued using the open and inclusive Stellar blockchain network.
