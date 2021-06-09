@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GB24DWW3OZMYO67XBT3VMCREDEHQXSKHMBWXVK5USADMBDKEYHEZWD5Q"
+"GD2EG56P4PV5B5IKSO2HRP5BHBEJSF46LAPSOXSL6VV5UWHKHKZ3MRWM"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="ATOM"
-ORG_TWITTER="@ATOM"
-ORG_LOGO="https://i.ibb.co/6mykttM/cosmos.png"
-ORG_OFFICIAL_EMAIL="ATOM@tutanota.com"
+ORG_NAME="XLMp"
+ORG_TWITTER="@XLMp"
+ORG_LOGO="https://i.ibb.co/rdFGLZX/Single-white-pearl-isolated-on-white-background.jpg"
+ORG_OFFICIAL_EMAIL="XLMp@tutanota.com"
 
 
 [[CURRENCIES]]
-code="ATOM"
-issuer="GB24DWW3OZMYO67XBT3VMCREDEHQXSKHMBWXVK5USADMBDKEYHEZWD5Q"
+code="XLMp"
+issuer="GD2EG56P4PV5B5IKSO2HRP5BHBEJSF46LAPSOXSL6VV5UWHKHKZ3MRWM"
 anchor_asset="false"
-name="COSMOS"
-desc="COSMOS [ATOM], Cosmos is building the tools to connect a multiverse of blockchain projects together. Launched in April 2019, the $590 million network places interoperability at the core of its project, a blockchain that will be able to translate data from one chain to another, in any programming language and across all consensus algorithms. “The premise for Cosmos is that we are the least-maximalist-possible project,” All in Bits, Inc. core developer Sunny Aggarwal said. “We just want to connect everything together.” While concord is Cosmos’ aim, the project has been rife with internal fragmentation. All in Bits director Zaki Manian left the project and criticized its CEO Jae Kwon for focusing on a side project, while the company itself has split in two. Despite this, Cosmos has attracted the participation of about 100 validators on its proof-of-stake network, and is used by more than 80 companies and projects including Binance and the Thailand government's National ID program."
-conditions="There will only ever be 10.000.00 ATOM tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/6mykttM/cosmos.png"
+name="Stellar Pearl"
+desc="Stellar Pearl [XLMp],A pearl is a hard, glistening object produced within the soft tissue (specifically the mantle) of a living shelled mollusk or another animal, such as fossil conulariids. Just like the shell of a mollusk, a pearl is composed of calcium carbonate (mainly aragonite or a mixture of aragonite and calcite) in minute crystalline form, which has deposited in concentric layers.  "
+conditions="There will only ever be 10.000.00 XLMp tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/rdFGLZX/Single-white-pearl-isolated-on-white-background.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#ATOM was issued using the open and inclusive Stellar blockchain network.
+#XLMp was issued using the open and inclusive Stellar blockchain network.
