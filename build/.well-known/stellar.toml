@@ -2,26 +2,28 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GD2EG56P4PV5B5IKSO2HRP5BHBEJSF46LAPSOXSL6VV5UWHKHKZ3MRWM"
+"GBGDB336H4PTASKMYXQ7D37NDJ6XJDNPP43UUH5ZCOXCQQAQX34XOQYK"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMp"
-ORG_TWITTER="@XLMp"
-ORG_LOGO="https://i.ibb.co/rdFGLZX/Single-white-pearl-isolated-on-white-background.jpg"
-ORG_OFFICIAL_EMAIL="XLMp@tutanota.com"
+ORG_NAME="CHSB"
+ORG_TWITTER="@CHSB"
+ORG_LOGO="https://i.ibb.co/s9Zswtq/1-T6-GMXb73-SQE9m-Y4-H4-Yqx-Yg.png"
+ORG_OFFICIAL_EMAIL="SwissBorg@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMp"
-issuer="GD2EG56P4PV5B5IKSO2HRP5BHBEJSF46LAPSOXSL6VV5UWHKHKZ3MRWM"
+code="CHSB"
+issuer="GBGDB336H4PTASKMYXQ7D37NDJ6XJDNPP43UUH5ZCOXCQQAQX34XOQYK"
 anchor_asset="false"
-name="Stellar Pearl"
-desc="Stellar Pearl [XLMp],A pearl is a hard, glistening object produced within the soft tissue (specifically the mantle) of a living shelled mollusk or another animal, such as fossil conulariids. Just like the shell of a mollusk, a pearl is composed of calcium carbonate (mainly aragonite or a mixture of aragonite and calcite) in minute crystalline form, which has deposited in concentric layers.  "
-conditions="There will only ever be 10.000.00 XLMp tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/rdFGLZX/Single-white-pearl-isolated-on-white-background.jpg"
-fixed_number=10000000
-max_number=10000000
+name="SwissBorg"
+desc="SwissBorg [CHSB],SwissBorg is a Switzerland-based project aiming to bring independence and decentralization to personal finance. Launched in 2017, SwissBorg aims to revolutionize Swiss private banking and employ the power of blockchain technology and smart contracts to create a decentralized network for personal finance.
+
+SwissBorg relies on its multi-utility CHSB token to allow users to perform a plethora of actions on the network. The project aims to create a democratic, decentralized and professional ecosystem, enabling users to manage their crypto portfolios with ease. SwissBorg’s creators also launched the SwissBorg Wealth App, which further optimizes the management of personal finances. The app uses revolutionary MPC keyless technology to allow users to exchange between fiat and crypto in a matter of seconds."
+conditions="There will only ever be 100.000.000 CHSB tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/s9Zswtq/1-T6-GMXb73-SQE9m-Y4-H4-Yqx-Yg.png"
+fixed_number=100000000
+max_number=100000000
 is_unlimited=false
-#XLMp was issued using the open and inclusive Stellar blockchain network.
+#CHSB was issued using the open and inclusive Stellar blockchain network.
