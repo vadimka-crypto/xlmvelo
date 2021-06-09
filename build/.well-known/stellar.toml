@@ -18,9 +18,7 @@ code="CHSB"
 issuer="GBGDB336H4PTASKMYXQ7D37NDJ6XJDNPP43UUH5ZCOXCQQAQX34XOQYK"
 anchor_asset="false"
 name="SwissBorg"
-desc="SwissBorg [CHSB],SwissBorg is a Switzerland-based project aiming to bring independence and decentralization to personal finance. Launched in 2017, SwissBorg aims to revolutionize Swiss private banking and employ the power of blockchain technology and smart contracts to create a decentralized network for personal finance.
-
-SwissBorg relies on its multi-utility CHSB token to allow users to perform a plethora of actions on the network. The project aims to create a democratic, decentralized and professional ecosystem, enabling users to manage their crypto portfolios with ease. SwissBorg’s creators also launched the SwissBorg Wealth App, which further optimizes the management of personal finances. The app uses revolutionary MPC keyless technology to allow users to exchange between fiat and crypto in a matter of seconds."
+desc="SwissBorg [CHSB],SwissBorg is a Switzerland-based project aiming to bring independence and decentralization to personal finance. Launched in 2017, SwissBorg aims to revolutionize Swiss private banking and employ the power of blockchain technology and smart contracts to create a decentralized network for personal finance.SwissBorg relies on its multi-utility CHSB token to allow users to perform a plethora of actions on the network. The project aims to create a democratic, decentralized and professional ecosystem, enabling users to manage their crypto portfolios with ease. SwissBorg’s creators also launched the SwissBorg Wealth App, which further optimizes the management of personal finances. The app uses revolutionary MPC keyless technology to allow users to exchange between fiat and crypto in a matter of seconds."
 conditions="There will only ever be 100.000.000 CHSB tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
 image="https://i.ibb.co/s9Zswtq/1-T6-GMXb73-SQE9m-Y4-H4-Yqx-Yg.png"
 fixed_number=100000000
