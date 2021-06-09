@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GBGDB336H4PTASKMYXQ7D37NDJ6XJDNPP43UUH5ZCOXCQQAQX34XOQYK"
+"GAGXEBXSSN2FBTXFUQYIUPJKPM7JR2FN2XBD6F3M7SRWSIZXMQKIOZX2"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="CHSB"
-ORG_TWITTER="@CHSB"
-ORG_LOGO="https://i.ibb.co/s9Zswtq/1-T6-GMXb73-SQE9m-Y4-H4-Yqx-Yg.png"
-ORG_OFFICIAL_EMAIL="SwissBorg@tutanota.com"
+ORG_NAME="ILC"
+ORG_TWITTER="@ILC"
+ORG_LOGO="https://i.ibb.co/6tPgwg9/illuminati.jpg"
+ORG_OFFICIAL_EMAIL="ILC@tutanota.com"
 
 
 [[CURRENCIES]]
-code="CHSB"
-issuer="GBGDB336H4PTASKMYXQ7D37NDJ6XJDNPP43UUH5ZCOXCQQAQX34XOQYK"
+code="ILC"
+issuer="GAGXEBXSSN2FBTXFUQYIUPJKPM7JR2FN2XBD6F3M7SRWSIZXMQKIOZX2"
 anchor_asset="false"
-name="SwissBorg"
-desc="SwissBorg [CHSB],SwissBorg is a Switzerland-based project aiming to bring independence and decentralization to personal finance. Launched in 2017, SwissBorg aims to revolutionize Swiss private banking and employ the power of blockchain technology and smart contracts to create a decentralized network for personal finance.SwissBorg relies on its multi-utility CHSB token to allow users to perform a plethora of actions on the network. The project aims to create a democratic, decentralized and professional ecosystem, enabling users to manage their crypto portfolios with ease. SwissBorg’s creators also launched the SwissBorg Wealth App, which further optimizes the management of personal finances. The app uses revolutionary MPC keyless technology to allow users to exchange between fiat and crypto in a matter of seconds."
-conditions="There will only ever be 100.000.000 CHSB tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/s9Zswtq/1-T6-GMXb73-SQE9m-Y4-H4-Yqx-Yg.png"
+name="Illuminati Coin"
+desc="Illuminati Coin [ILC],BUY OUR COINS TO BE A PART OF US!The Illuminati (plural of Latin illuminatus, 'enlightened') is a name given to several groups, both real and fictitious. Historically, the name usually refers to the Bavarian Illuminati, an Enlightenment-era secret society founded on 1 May 1776 in Bavaria, today part of Germany."
+conditions="There will only ever be 100.000.000 ILC coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/6tPgwg9/illuminati.jpg"
 fixed_number=100000000
 max_number=100000000
 is_unlimited=false
-#CHSB was issued using the open and inclusive Stellar blockchain network.
+#ILC was issued using the open and inclusive Stellar blockchain network.
