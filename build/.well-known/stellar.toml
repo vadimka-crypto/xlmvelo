@@ -9,7 +9,7 @@ VERSION="2.0.0"
 [DOCUMENTATION]
 ORG_NAME="xDota2"
 ORG_TWITTER="@xDota2"
-ORG_LOGO="https://i.ibb.co/xG2bzP6/c519d1e1dddd9a73b4760de071bf6e76.jpg"
+ORG_LOGO="https://i.ibb.co/RBs87yN/yusif-alomeri-dota-emoticons-icon-circle.jpg"
 ORG_OFFICIAL_EMAIL="xDota2@tutanota.com"
 
 
@@ -20,7 +20,7 @@ anchor_asset="false"
 name="Stellar Dota2"
 desc="Stellar Dota2 [xDota2],  Stellar Dota2 is a token created by valve based on XLM to support international 2021,all money will be transfered to proffesionals dota players on international 2021."
 conditions="There will only ever be 10.000.000 xSteamCoin tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/xG2bzP6/c519d1e1dddd9a73b4760de071bf6e76.jpg"
+image="https://i.ibb.co/RBs87yN/yusif-alomeri-dota-emoticons-icon-circle.jpg"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
