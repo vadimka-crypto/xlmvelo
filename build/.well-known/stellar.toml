@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GAVIKR2BSFJQCBKX4RI7ZFKJWX4O7PQKBOKLVUTGHHCOREY27P6AYJAM"
+"GAR57JCCHR7AKC63EPVUZJYOHODNVISTOFUYHJHU3PRV726YFQSOXACH"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="xDota2"
-ORG_TWITTER="@xDota2"
-ORG_LOGO="https://i.ibb.co/RBs87yN/yusif-alomeri-dota-emoticons-icon-circle.jpg"
-ORG_OFFICIAL_EMAIL="xDota2@tutanota.com"
+ORG_NAME="xLOL"
+ORG_TWITTER="@xLOL"
+ORG_LOGO="https://i.ibb.co/Lt9cdmH/league-of-legends-555171.png"
+ORG_OFFICIAL_EMAIL="LOL@tutanota.com"
 
 
 [[CURRENCIES]]
-code="xDota2"
-issuer="GAVIKR2BSFJQCBKX4RI7ZFKJWX4O7PQKBOKLVUTGHHCOREY27P6AYJAM"
+code="xLOL"
+issuer="GAR57JCCHR7AKC63EPVUZJYOHODNVISTOFUYHJHU3PRV726YFQSOXACH"
 anchor_asset="false"
-name="Stellar Dota2"
-desc="Stellar Dota2 [xDota2],  Stellar Dota2 is a token created by valve based on XLM to support international 2021,all money will be transfered to proffesionals dota players on international 2021."
-conditions="There will only ever be 10.000.000 xSteamCoin tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/RBs87yN/yusif-alomeri-dota-emoticons-icon-circle.jpg"
+name="League of Legends"
+desc="League of Legends [xLOL], xLOL are tokens based on XLM for buying in this game. "
+conditions="There will only ever be 10.000.00 xLOL tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/Lt9cdmH/league-of-legends-555171.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#xDota2 was issued using the open and inclusive Stellar blockchain network.
+#xLOL was issued using the open and inclusive Stellar blockchain network.
