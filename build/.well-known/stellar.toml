@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GAR57JCCHR7AKC63EPVUZJYOHODNVISTOFUYHJHU3PRV726YFQSOXACH"
+"GB24DWW3OZMYO67XBT3VMCREDEHQXSKHMBWXVK5USADMBDKEYHEZWD5Q"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="xLOL"
-ORG_TWITTER="@xLOL"
-ORG_LOGO="https://i.ibb.co/Lt9cdmH/league-of-legends-555171.png"
-ORG_OFFICIAL_EMAIL="LOL@tutanota.com"
+ORG_NAME="ATOM"
+ORG_TWITTER="@ATOM"
+ORG_LOGO="https://i.ibb.co/6mykttM/cosmos.png"
+ORG_OFFICIAL_EMAIL="ATOM@tutanota.com"
 
 
 [[CURRENCIES]]
-code="xLOL"
-issuer="GAR57JCCHR7AKC63EPVUZJYOHODNVISTOFUYHJHU3PRV726YFQSOXACH"
+code="ATOM"
+issuer="GB24DWW3OZMYO67XBT3VMCREDEHQXSKHMBWXVK5USADMBDKEYHEZWD5Q"
 anchor_asset="false"
-name="League of Legends"
-desc="League of Legends [xLOL], xLOL are tokens based on XLM for buying in this game. "
-conditions="There will only ever be 10.000.00 xLOL tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/Lt9cdmH/league-of-legends-555171.png"
+name="COSMOS"
+desc="COSMOS [ATOM], Cosmos is building the tools to connect a multiverse of blockchain projects together. Launched in April 2019, the $590 million network places interoperability at the core of its project, a blockchain that will be able to translate data from one chain to another, in any programming language and across all consensus algorithms. “The premise for Cosmos is that we are the least-maximalist-possible project,” All in Bits, Inc. core developer Sunny Aggarwal said. “We just want to connect everything together.” While concord is Cosmos’ aim, the project has been rife with internal fragmentation. All in Bits director Zaki Manian left the project and criticized its CEO Jae Kwon for focusing on a side project, while the company itself has split in two. Despite this, Cosmos has attracted the participation of about 100 validators on its proof-of-stake network, and is used by more than 80 companies and projects including Binance and the Thailand government's National ID program."
+conditions="There will only ever be 10.000.00 ATOM tokens in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/6mykttM/cosmos.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#xLOL was issued using the open and inclusive Stellar blockchain network.
+#ATOM was issued using the open and inclusive Stellar blockchain network.
