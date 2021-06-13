@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GB7XQ5PAGYA3EXPMEGWDUFQV726FNHCFQYSRF4RMVARCUXV2TQEBIRIZ"
+"GA7VH74SSSRXDM45RAZTO2D35OJB2M65GLIBXYXYW2NL6HRXCQA26DAS"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Microsoft"
-ORG_TWITTER="Microsoft"
-ORG_LOGO="https://i.ibb.co/zr2W1cD/new-microsoft-logo-SIZED-SQUARE.jpg"
-ORG_OFFICIAL_EMAIL="Microsoft@tutanota.com"
+ORG_NAME="XLMr"
+ORG_TWITTER="XLMr"
+ORG_LOGO="https://i.ibb.co/vcBmZvb/another-stellar-lumens-xlm-logo.png"
+ORG_OFFICIAL_EMAIL="XLMr@tutanota.com"
 
 
 [[CURRENCIES]]
-code="Microsoft"
-issuer="GB7XQ5PAGYA3EXPMEGWDUFQV726FNHCFQYSRF4RMVARCUXV2TQEBIRIZ"
+code="XLMr"
+issuer="GA7VH74SSSRXDM45RAZTO2D35OJB2M65GLIBXYXYW2NL6HRXCQA26DAS"
 anchor_asset="false"
-name="MTokens"
-desc="MTokens [Microsoft],offcial tokens of microsoft based on XLM for purchasing microsoft products."
-conditions="There will only ever be 1.000.000.000 MTokens coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/zr2W1cD/new-microsoft-logo-SIZED-SQUARE.jpg"
-fixed_number=1000000000
-max_number=1000000000
+name="XLMREBORN"
+desc="XLMREBORN [XLMr],"
+conditions="There will only ever be 5.000.000 MTokens coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/vcBmZvb/another-stellar-lumens-xlm-logo.png"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
-#Microsoft was issued using the open and inclusive Stellar blockchain network.
+#XLMr was issued using the open and inclusive Stellar blockchain network.
