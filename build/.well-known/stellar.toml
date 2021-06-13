@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GA7VH74SSSRXDM45RAZTO2D35OJB2M65GLIBXYXYW2NL6HRXCQA26DAS"
+"GAIK2Z3ANEFFF5DI524LDTH2XNBTETHVRQJANMCW53KWTZOTWWGUILOQ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMr"
-ORG_TWITTER="XLMr"
-ORG_LOGO="https://i.ibb.co/vcBmZvb/another-stellar-lumens-xlm-logo.png"
-ORG_OFFICIAL_EMAIL="XLMr@tutanota.com"
+ORG_NAME="TFUEL"
+ORG_TWITTER="TFUEL"
+ORG_LOGO="https://i.ibb.co/KxzQ2nD/THETA.png"
+ORG_OFFICIAL_EMAIL="TFUEL@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMr"
-issuer="GA7VH74SSSRXDM45RAZTO2D35OJB2M65GLIBXYXYW2NL6HRXCQA26DAS"
+code="TFUEL"
+issuer="GAIK2Z3ANEFFF5DI524LDTH2XNBTETHVRQJANMCW53KWTZOTWWGUILOQ"
 anchor_asset="false"
-name="XLMREBORN"
-desc="XLMREBORN [XLMr],token based on XLM that is faster and more confidential,in future XLMREBORN will be more demand than XLM."
-conditions="There will only ever be 5.000.000 MTokens coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/vcBmZvb/another-stellar-lumens-xlm-logo.png"
+name="THETAFUEL"
+desc="THETAFUEL [TFUEL],The operational token of the Theta protocol. TFUEL powers on-chain operations like payments to relayers for sharing a video stream, or for deploying or interacting with smart contracts. Relayers earn TFUEL for every video stream they relay to other users on the network. You can think of Theta Fuel as the “gas” of the protocol."
+conditions="There will only ever be 5.000.000 TFUEL coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/KxzQ2nD/THETA.png"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#XLMr was issued using the open and inclusive Stellar blockchain network.
+#TFUEL was issued using the open and inclusive Stellar blockchain network.
