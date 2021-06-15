@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GCEN2ZCEIBADVL74OCMQC2VLWUCLBKAOUBSHFD7B4A2LSVTQGNH44SPQ"
+"GBDDOGU24LW34A6SP55OFHSEVDZXID76I37T47HARPXEC7EH3AM5J2D6"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="TeslaC"
-ORG_TWITTER="TeslaC"
-ORG_LOGO="https://i.ibb.co/yfq09Gz/teslacoin.jpg"
-ORG_OFFICIAL_EMAIL="TeslaC@tutanota.com"
+ORG_NAME="Starbase"
+ORG_TWITTER="Starbase"
+ORG_LOGO="https://i.ibb.co/HdsHTdp/spacex-png.webp"
+ORG_OFFICIAL_EMAIL="Starbase@tutanota.com"
 
 
 [[CURRENCIES]]
-code="TeslaC"
-issuer="GCEN2ZCEIBADVL74OCMQC2VLWUCLBKAOUBSHFD7B4A2LSVTQGNH44SPQ"
+code="Starbase"
+issuer="GBDDOGU24LW34A6SP55OFHSEVDZXID76I37T47HARPXEC7EH3AM5J2D6"
 anchor_asset="false"
-name="TeslaCoin"
-desc="TeslaCoin [TeslaC],token based on XLM to buy tesla's products!"
-conditions="There will only ever be 1.000.000.000 TeslaC coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/yfq09Gz/teslacoin.jpg"
+name="Starbase Lumens"
+desc="Starbase Lumens [Starbase]."
+conditions="There will only ever be 1.000.000.000 Starbase coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/HdsHTdp/spacex-png.webp"
 fixed_number=1000000000
 max_number=1000000000
 is_unlimited=false
-#TeslaC was issued using the open and inclusive Stellar blockchain network.
+#Starbase was issued using the open and inclusive Stellar blockchain network.
