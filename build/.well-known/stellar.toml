@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GBDDOGU24LW34A6SP55OFHSEVDZXID76I37T47HARPXEC7EH3AM5J2D6"
+"GAE6XNRRLUU7SCNXA5WNYDXYQQCALHMIR6VVEWSINHMOYDOIQ7T4ZXCA"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Starbase"
-ORG_TWITTER="Starbase"
-ORG_LOGO="https://i.ibb.co/HdsHTdp/spacex-png.webp"
-ORG_OFFICIAL_EMAIL="Starbase@tutanota.com"
+ORG_NAME="XLMB"
+ORG_TWITTER="XLMB"
+ORG_LOGO="https://i.ibb.co/pn0SJ0N/bankof.jpg"
+ORG_OFFICIAL_EMAIL="XLMB@tutanota.com"
 
 
 [[CURRENCIES]]
-code="Starbase"
-issuer="GBDDOGU24LW34A6SP55OFHSEVDZXID76I37T47HARPXEC7EH3AM5J2D6"
+code="XLMB"
+issuer="GAE6XNRRLUU7SCNXA5WNYDXYQQCALHMIR6VVEWSINHMOYDOIQ7T4ZXCA"
 anchor_asset="false"
-name="Starbase Lumens"
-desc="Starbase Lumens [Starbase]."
-conditions="There will only ever be 1.000.000.000 Starbase coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/HdsHTdp/spacex-png.webp"
+name="Stellar Bank"
+desc="Stellar Bank [XLMB]In this asset(token) you can hold your money confidential."
+conditions="There will only ever be 1.000.000.000 XLMB coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/pn0SJ0N/bankof.jpg"
 fixed_number=1000000000
 max_number=1000000000
 is_unlimited=false
-#Starbase was issued using the open and inclusive Stellar blockchain network.
+#XLMB was issued using the open and inclusive Stellar blockchain network.
