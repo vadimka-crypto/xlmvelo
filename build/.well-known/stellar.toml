@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GDZQF6RKDGOIOSXSJO36KYCMTFLWAUEL2A7UODHCBM47TAAENLYXHNRR"
+"GCZI4AS44UUUZNOUGC5R64GX3UDB7WKNRA3RPHG5UERMFLDSGJRCWYU3"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMA"
-ORG_TWITTER="XLMA"
-ORG_LOGO="https://i.ibb.co/QfX4MjH/audi-vector-logo-small.png"
-ORG_OFFICIAL_EMAIL="XLMA@tutanota.com"
+ORG_NAME="XLMB"
+ORG_TWITTER="XLMB"
+ORG_LOGO="https://i.ibb.co/wQ3JM6L/brilliant.jpg"
+ORG_OFFICIAL_EMAIL="XLMB@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMA"
-issuer="GDZQF6RKDGOIOSXSJO36KYCMTFLWAUEL2A7UODHCBM47TAAENLYXHNRR"
+code="XLMB"
+issuer="GCZI4AS44UUUZNOUGC5R64GX3UDB7WKNRA3RPHG5UERMFLDSGJRCWYU3"
 anchor_asset="false"
-name="Stellar Audi"
-desc="Stellar Audi [XLMA], is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles. Audi is a subsidiary of Volkswagen Group and has its roots at Ingolstadt, Bavaria, Germany. Audi vehicles are produced in nine production facilities worldwide."
-conditions="There will only ever be 10.000.000 XLMA coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/QfX4MjH/audi-vector-logo-small.png"
-fixed_number=10000000
-max_number=10000000
+name="Brilliant Lumens"
+desc="Brilliant Lumens [XLMB], is a form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. At room temperature and pressure, another solid form of carbon known as graphite is the chemically stable form of carbon, but diamond almost never converts to it. Diamond has the highest hardness and thermal conductivity of any natural material, properties that are utilized in major industrial applications such as cutting and polishing tools."
+conditions="There will only ever be 5.000.000 XLMB coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/wQ3JM6L/brilliant.jpg"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
-#XLMA was issued using the open and inclusive Stellar blockchain network.
+#XLMB was issued using the open and inclusive Stellar blockchain network.
