@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GCZI4AS44UUUZNOUGC5R64GX3UDB7WKNRA3RPHG5UERMFLDSGJRCWYU3"
+"GDSGDECMRLJQTO5SQEDKHODFZX5KQ2T6U5JT5U57RGGZC63RJCIKUMTZ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMB"
-ORG_TWITTER="XLMB"
-ORG_LOGO="https://i.ibb.co/wQ3JM6L/brilliant.jpg"
-ORG_OFFICIAL_EMAIL="XLMB@tutanota.com"
+ORG_NAME="AMP"
+ORG_TWITTER="AMP"
+ORG_LOGO="https://i.ibb.co/RHXM69Y/AMP.png"
+ORG_OFFICIAL_EMAIL="AMP@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMB"
-issuer="GCZI4AS44UUUZNOUGC5R64GX3UDB7WKNRA3RPHG5UERMFLDSGJRCWYU3"
+code="AMP"
+issuer="GDSGDECMRLJQTO5SQEDKHODFZX5KQ2T6U5JT5U57RGGZC63RJCIKUMTZ"
 anchor_asset="false"
-name="Brilliant Lumens"
-desc="Brilliant Lumens [XLMB], is a form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. At room temperature and pressure, another solid form of carbon known as graphite is the chemically stable form of carbon, but diamond almost never converts to it. Diamond has the highest hardness and thermal conductivity of any natural material, properties that are utilized in major industrial applications such as cutting and polishing tools."
-conditions="There will only ever be 5.000.000 XLMB coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/wQ3JM6L/brilliant.jpg"
-fixed_number=5000000
-max_number=5000000
+name="Amp Lumens"
+desc="Amp Lumens [AMP], is a new token and staking platform that has been designed to support the instant, transparent, and verifiable collateralization of any type of value transfer — whether fast or slow, digital or physical, like-kind or multi-asset."
+conditions="There will only ever be 10.000.000 AMP coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/RHXM69Y/AMP.png"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLMB was issued using the open and inclusive Stellar blockchain network.
+#AMP was issued using the open and inclusive Stellar blockchain network.
