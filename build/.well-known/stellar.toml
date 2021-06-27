@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GDSGDECMRLJQTO5SQEDKHODFZX5KQ2T6U5JT5U57RGGZC63RJCIKUMTZ"
+"GBRYEYCE3DTCNRQGA5T6JQ65K3QYKBLJ3JQJLBS6XANAJCWUWEY2HPWA"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="AMP"
-ORG_TWITTER="AMP"
-ORG_LOGO="https://i.ibb.co/RHXM69Y/AMP.png"
-ORG_OFFICIAL_EMAIL="AMP@tutanota.com"
+ORG_NAME="YFI"
+ORG_TWITTER="YFI"
+ORG_LOGO="https://i.ibb.co/qMfZZKH/yfi-450x200.png"
+ORG_OFFICIAL_EMAIL="yearn.finance@tutanota.com"
 
 
 [[CURRENCIES]]
-code="AMP"
-issuer="GDSGDECMRLJQTO5SQEDKHODFZX5KQ2T6U5JT5U57RGGZC63RJCIKUMTZ"
+code="YFI"
+issuer="GBRYEYCE3DTCNRQGA5T6JQ65K3QYKBLJ3JQJLBS6XANAJCWUWEY2HPWA"
 anchor_asset="false"
-name="Amp Lumens"
-desc="Amp Lumens [AMP], is a new token and staking platform that has been designed to support the instant, transparent, and verifiable collateralization of any type of value transfer — whether fast or slow, digital or physical, like-kind or multi-asset."
-conditions="There will only ever be 10.000.000 AMP coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/RHXM69Y/AMP.png"
-fixed_number=10000000
-max_number=10000000
+name="YearnFinance Lumens"
+desc="YearnFinance Lumens [YFI],Launched in July 2020, yEarn is a profit switching lender as well as the name for decentralized finance (DeFi) protocol.Profit switching refers to moving between various DeFi protocols to increase yield on cryptocurrencies that are being lent.There is also a single-sided market maker called ySwap.exchange.The YFI token governs the yEarn ecosystem which is expected to grow to include at least these additional services:ytrade.finance - Leveraged stable coin trades (in testnet phase),yliquidate.finance - 0 capital automated liquidations for Aave (in testnet phase),iborrow.finance - Credit delegation vaults for smart contract to smart contract lending (in testnet phase)."
+conditions="There will only ever be 36000 YFI coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/qMfZZKH/yfi-450x200.png"
+fixed_number=36000
+max_number=36000
 is_unlimited=false
-#AMP was issued using the open and inclusive Stellar blockchain network.
+#YFI was issued using the open and inclusive Stellar blockchain network.
