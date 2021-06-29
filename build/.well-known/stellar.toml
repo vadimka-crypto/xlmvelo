@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GBRYEYCE3DTCNRQGA5T6JQ65K3QYKBLJ3JQJLBS6XANAJCWUWEY2HPWA"
+"GBZZWEYD3OPKC4FY5D63WPN4CSNXH3EN66VBMRNF5FQKQNGD5AYHCIOK"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="YFI"
-ORG_TWITTER="YFI"
-ORG_LOGO="https://i.ibb.co/qMfZZKH/yfi-450x200.png"
-ORG_OFFICIAL_EMAIL="yearn.finance@tutanota.com"
+ORG_NAME="xlmE"
+ORG_TWITTER="xlmE"
+ORG_LOGO="https://i.ibb.co/4tjFWNV/xlme.jpg"
+ORG_OFFICIAL_EMAIL="xlmE@tutanota.com"
 
 
 [[CURRENCIES]]
-code="YFI"
-issuer="GBRYEYCE3DTCNRQGA5T6JQ65K3QYKBLJ3JQJLBS6XANAJCWUWEY2HPWA"
+code="xlmE"
+issuer="GBZZWEYD3OPKC4FY5D63WPN4CSNXH3EN66VBMRNF5FQKQNGD5AYHCIOK"
 anchor_asset="false"
-name="YearnFinance Lumens"
-desc="YearnFinance Lumens [YFI],Launched in July 2020, yEarn is a profit switching lender as well as the name for decentralized finance (DeFi) protocol.Profit switching refers to moving between various DeFi protocols to increase yield on cryptocurrencies that are being lent.There is also a single-sided market maker called ySwap.exchange.The YFI token governs the yEarn ecosystem which is expected to grow to include at least these additional services:ytrade.finance - Leveraged stable coin trades (in testnet phase),yliquidate.finance - 0 capital automated liquidations for Aave (in testnet phase),iborrow.finance - Credit delegation vaults for smart contract to smart contract lending (in testnet phase)."
-conditions="There will only ever be 36000 YFI coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/qMfZZKH/yfi-450x200.png"
-fixed_number=36000
-max_number=36000
+name="Euphoria Lumens"
+desc="Euphoria Lumens [xlmE],Token based on XLM that is faster and better."
+conditions="There will only ever be 5000000 xlmE coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/4tjFWNV/xlme.jpg"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
-#YFI was issued using the open and inclusive Stellar blockchain network.
+#xlmE was issued using the open and inclusive Stellar blockchain network.
