@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
-"GCBX7G4DIUV5LCXHDBX7KERUEVOODH3WPPWUFEXRKZ3SWMFO3SMSMKFB"
+"GCRDDZAAKHJ3DRCSKGYVOS6CL3CIOPZ4Q6Q4MVJXOO2MSXD6VZCPMFHU",
+"GBB2DATEI2KJABCCTM2A2KDCETGF26OVXZYR7H66LMDMXROAFBVL4Y4L"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLML"
-ORG_TWITTER="XLML"
-ORG_LOGO="https://i.ibb.co/0Jrvwbm/stellar-Lumens-Review.jpg"
-ORG_OFFICIAL_EMAIL="XLML@tutanota.com"
+ORG_NAME="StellarET"
+ORG_TWITTER="StellarET"
+ORG_LOGO="https://i.ibb.co/kBczCR2/brand.gif"
+ORG_OFFICIAL_EMAIL="ETERNITY@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLML"
-issuer="GCBX7G4DIUV5LCXHDBX7KERUEVOODH3WPPWUFEXRKZ3SWMFO3SMSMKFB"
+code="StellarET"
+issuer="GBB2DATEI2KJABCCTM2A2KDCETGF26OVXZYR7H66LMDMXROAFBVL4Y4L"
 anchor_asset="false"
-name="Lumen Coin"
-desc="Lumen Coin [XLML],Buy now until is low price,token based on XLM."
-conditions="There will only ever be 10000000 XLML coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/0Jrvwbm/stellar-Lumens-Review.jpg"
-fixed_number=10000000
-max_number=10000000
+name="Stellar Eternity"
+desc="Stellar Eternity [StellarET],New token based on XLM,will be used as the main interplanetary monetary system"
+conditions="There will only ever be 50000000 StellarET coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/kBczCR2/brand.gif"
+fixed_number=50000000
+max_number=50000000
 is_unlimited=false
-#XLML was issued using the open and inclusive Stellar blockchain network.
+#StellarET was issued using the open and inclusive Stellar blockchain network.
