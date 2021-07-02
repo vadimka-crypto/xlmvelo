@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
-"GD3FRDS5INXSBNZMR7N6UPKW53JVQ5F5WKAL47WLSX6ZSGQXY6YKTMGW"
+"GCBX7G4DIUV5LCXHDBX7KERUEVOODH3WPPWUFEXRKZ3SWMFO3SMSMKFB"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMEM"
-ORG_TWITTER="XLMEM"
+ORG_NAME="XLML"
+ORG_TWITTER="XLML"
 ORG_LOGO="https://i.ibb.co/y0rs4NN/elon-musk-logo-0914614-CE5-seeklogo-com.jpg"
-ORG_OFFICIAL_EMAIL="XLMEM@tutanota.com"
+ORG_OFFICIAL_EMAIL="XLML@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMEM"
-issuer="GD3FRDS5INXSBNZMR7N6UPKW53JVQ5F5WKAL47WLSX6ZSGQXY6YKTMGW"
+code="XLML"
+issuer="GCBX7G4DIUV5LCXHDBX7KERUEVOODH3WPPWUFEXRKZ3SWMFO3SMSMKFB"
 anchor_asset="false"
-name="STELLAR MUSK TOKEN"
-desc="STELLAR MUSK TOKEN [XLMEM],Token based on XLM that is faster and better."
-conditions="There will only ever be 5000000 XLMEM coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+name="Lumen Coin"
+desc="Lumen Coin [XLML],Buy now until is low price,token based on XLM."
+conditions="There will only ever be 10000000 XLML coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
 image="https://i.ibb.co/y0rs4NN/elon-musk-logo-0914614-CE5-seeklogo-com.jpg"
-fixed_number=5000000
-max_number=5000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLMEM was issued using the open and inclusive Stellar blockchain network.
+#XLML was issued using the open and inclusive Stellar blockchain network.
