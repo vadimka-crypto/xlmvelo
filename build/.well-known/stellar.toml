@@ -9,7 +9,7 @@ VERSION="2.0.0"
 [DOCUMENTATION]
 ORG_NAME="KRAKEN TOKEN"
 ORG_TWITTER="KRAKEN TOKEN"
-ORG_LOGO="https://i.ibb.co/kSZCvZb/psyllioum.png"
+ORG_LOGO="https://i.ibb.co/dJr17zg/11111111.png"
 ORG_OFFICIAL_EMAIL="KRAKENTOKEN@tutanota.com"
 
 
@@ -20,7 +20,7 @@ anchor_asset="false"
 name="KRAKEN TOKEN"
 desc="KRAKEN TOKEN [KRAKENT],KRAKEN is one of the biggest online exchange that now have own token,based on XLM,buy until is cheap."
 conditions="There will only ever be 50000000 KRAKENT coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/kSZCvZb/psyllioum.png"
+image="https://i.ibb.co/dJr17zg/11111111.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
