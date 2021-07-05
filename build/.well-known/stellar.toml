@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
-"GBU4UIUUXRXK2E6ADVQ6IGJWFXTOLFC2O2BS2BI75PH2FHKTNMYCCSGS"
+"GCRDDZAAKHJ3DRCSKGYVOS6CL3CIOPZ4Q6Q4MVJXOO2MSXD6VZCPMFHU",
+"GBYWNGLDOTILLEG5IHICV3ZZ3EURAQNU6DLO5G2SYKRJBAYHYJXQKS5X"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Patriot Light"
-ORG_TWITTER="Patriot Light"
-ORG_LOGO="https://i.ibb.co/FBGfWkq/145-1455107-download-new-england-patriots-vector-logo-new-england.jpg"
-ORG_OFFICIAL_EMAIL="PatriotLight@tutanota.com"
+ORG_NAME="Stellar Psyllium"
+ORG_TWITTER="Stellar Psyllium"
+ORG_LOGO="https://i.ibb.co/kSZCvZb/psyllioum.png"
+ORG_OFFICIAL_EMAIL="StellarPsyllium@tutanota.com"
 
 
 [[CURRENCIES]]
-code="PLight"
-issuer="GBU4UIUUXRXK2E6ADVQ6IGJWFXTOLFC2O2BS2BI75PH2FHKTNMYCCSGS"
+code="XLMP"
+issuer="GBYWNGLDOTILLEG5IHICV3ZZ3EURAQNU6DLO5G2SYKRJBAYHYJXQKS5X"
 anchor_asset="false"
-name="Patriot Light"
-desc="Patriot Light [PLight],New token based on XLM,Buy if you are a patriot of your country."
-conditions="There will only ever be 50000000 PLight coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/FBGfWkq/145-1455107-download-new-england-patriots-vector-logo-new-england.jpg"
+name="Stellar Psyllium"
+desc="Stellar Psyllium [XLMP],New token based on XLM,Its a eco and bio token invented for purchasing healthy products.CLEAN,PURE,RESERVED."
+conditions="There will only ever be 50000000 XLMP coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/kSZCvZb/psyllioum.png"
 fixed_number=50000000
 max_number=50000000
 is_unlimited=false
-#PLight was issued using the open and inclusive Stellar blockchain network.
+#XLMP was issued using the open and inclusive Stellar blockchain network.
