@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GBB2DATEI2KJABCCTM2A2KDCETGF26OVXZYR7H66LMDMXROAFBVL4Y4L"
+"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
+"GBU4UIUUXRXK2E6ADVQ6IGJWFXTOLFC2O2BS2BI75PH2FHKTNMYCCSGS"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="StellarET"
-ORG_TWITTER="StellarET"
-ORG_LOGO="https://i.ibb.co/kBczCR2/brand.gif"
-ORG_OFFICIAL_EMAIL="ETERNITY@tutanota.com"
+ORG_NAME="Patriot Light"
+ORG_TWITTER="Patriot Light"
+ORG_LOGO="https://i.ibb.co/FBGfWkq/145-1455107-download-new-england-patriots-vector-logo-new-england.jpg"
+ORG_OFFICIAL_EMAIL="PatriotLight@tutanota.com"
 
 
 [[CURRENCIES]]
-code="StellarET"
-issuer="GBB2DATEI2KJABCCTM2A2KDCETGF26OVXZYR7H66LMDMXROAFBVL4Y4L"
+code="PLight"
+issuer="GBU4UIUUXRXK2E6ADVQ6IGJWFXTOLFC2O2BS2BI75PH2FHKTNMYCCSGS"
 anchor_asset="false"
-name="Stellar Eternity"
-desc="Stellar Eternity [StellarET],New token based on XLM,will be used as the main interplanetary monetary system"
-conditions="There will only ever be 50000000 StellarET coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/kBczCR2/brand.gif"
+name="Patriot Light"
+desc="Patriot Light [PLight],New token based on XLM,Buy if you are a patriot of your country."
+conditions="There will only ever be 50000000 PLight coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/FBGfWkq/145-1455107-download-new-england-patriots-vector-logo-new-england.jpg"
 fixed_number=50000000
 max_number=50000000
 is_unlimited=false
-#StellarET was issued using the open and inclusive Stellar blockchain network.
+#PLight was issued using the open and inclusive Stellar blockchain network.
