@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCRDDZAAKHJ3DRCSKGYVOS6CL3CIOPZ4Q6Q4MVJXOO2MSXD6VZCPMFHU",
-"GBYWNGLDOTILLEG5IHICV3ZZ3EURAQNU6DLO5G2SYKRJBAYHYJXQKS5X"
+"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
+"GAERWH2JB5U2X535KVJ3U5Y3RRHWYUF6JKUQAJAZKHHIQCTNX57TNRWJ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Stellar Psyllium"
-ORG_TWITTER="Stellar Psyllium"
+ORG_NAME="KRAKEN TOKEN"
+ORG_TWITTER="KRAKEN TOKEN"
 ORG_LOGO="https://i.ibb.co/kSZCvZb/psyllioum.png"
-ORG_OFFICIAL_EMAIL="StellarPsyllium@tutanota.com"
+ORG_OFFICIAL_EMAIL="KRAKENTOKEN@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMP"
-issuer="GBYWNGLDOTILLEG5IHICV3ZZ3EURAQNU6DLO5G2SYKRJBAYHYJXQKS5X"
+code="KRAKENT"
+issuer="GAERWH2JB5U2X535KVJ3U5Y3RRHWYUF6JKUQAJAZKHHIQCTNX57TNRWJ"
 anchor_asset="false"
-name="Stellar Psyllium"
-desc="Stellar Psyllium [XLMP],New token based on XLM,Its a eco and bio token invented for purchasing healthy products.CLEAN,PURE,RESERVED."
-conditions="There will only ever be 50000000 XLMP coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+name="KRAKEN TOKEN"
+desc="KRAKEN TOKEN [KRAKENT],KRAKEN is one of the biggest online exchange that now have own token,based on XLM,buy until is cheap."
+conditions="There will only ever be 50000000 KRAKENT coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
 image="https://i.ibb.co/kSZCvZb/psyllioum.png"
-fixed_number=50000000
-max_number=50000000
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLMP was issued using the open and inclusive Stellar blockchain network.
+#KRAKENT was issued using the open and inclusive Stellar blockchain network.
