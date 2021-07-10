@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GAERWH2JB5U2X535KVJ3U5Y3RRHWYUF6JKUQAJAZKHHIQCTNX57TNRWJ"
+"GD73S6WOESPIQCYGXHZPUM74HCCZ2LX6NYSSFFW7UR2SMLAKPUA5KXSJ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="KRAKEN TOKEN"
-ORG_TWITTER="KRAKEN TOKEN"
-ORG_LOGO="https://i.ibb.co/dJr17zg/11111111.png"
-ORG_OFFICIAL_EMAIL="KRAKENTOKEN@tutanota.com"
+ORG_NAME="Stellar Satellite"
+ORG_TWITTER="Stellar Satellite"
+ORG_LOGO="https://i.ibb.co/6FF20zX/sate.png"
+ORG_OFFICIAL_EMAIL="StellarSatellite@tutanota.com"
 
 
 [[CURRENCIES]]
-code="KRAKENT"
-issuer="GAERWH2JB5U2X535KVJ3U5Y3RRHWYUF6JKUQAJAZKHHIQCTNX57TNRWJ"
+code="XLMSAT"
+issuer="GD73S6WOESPIQCYGXHZPUM74HCCZ2LX6NYSSFFW7UR2SMLAKPUA5KXSJ"
 anchor_asset="false"
-name="KRAKEN TOKEN"
-desc="KRAKEN TOKEN [KRAKENT],KRAKEN is one of the biggest online exchange that now have own token,based on XLM,buy until is cheap."
-conditions="There will only ever be 50000000 KRAKENT coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/dJr17zg/11111111.png"
-fixed_number=10000000
-max_number=10000000
+name="Stellar Satellite"
+desc="Stellar Satellite [XLMSAT],An object which orbits another body with or without a purpose is called a Satellite. They are of two different types, Natural Satellite & Artificial Satellite.On 4 October 1957, the Soviet Union launched the world's first artificial satellite, Sputnik 1. Since then, about 8,900 satellites from more than 40 countries have been launched. According to a 2018 estimate, about 5,000 remained in orbit. Of those, about 1,900 were operational, while the rest had exceeded their useful lives and become space debris. Approximately 63% of operational satellites are in low Earth orbit, 6% are in medium-Earth orbit (at 20,000 km), 29% are in geostationary orbit (at 36,000 km) and the remaining 2% are in various elliptical orbits. In terms of countries with the most satellites, the United States has the most with 1,897 satellites, China is second with 412, and Russia third with 176."
+conditions="There will only ever be 50000000 XLMSAT coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/6FF20zX/sate.png"
+fixed_number=50000000
+max_number=50000000
 is_unlimited=false
-#KRAKENT was issued using the open and inclusive Stellar blockchain network.
+#XLMSAT was issued using the open and inclusive Stellar blockchain network.
