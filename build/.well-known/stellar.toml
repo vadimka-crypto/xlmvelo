@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCRDDZAAKHJ3DRCSKGYVOS6CL3CIOPZ4Q6Q4MVJXOO2MSXD6VZCPMFHU",
-"GCRGX2S5CSOCSPN6OFLQQ7GTD4TGEK2UU5SLQU5YPXHFOZV2HEV52M3L"
+"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
+"GCFQUEHBQDLV65QFT3UVZPVVJXYQE232TOQFYA4332RCM5UL6LOAA43F"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Stellar AMP"
-ORG_TWITTER="Stellar AMP"
-ORG_LOGO="https://i.ibb.co/r4nSS8P/amp.png"
-ORG_OFFICIAL_EMAIL="StellarAMP@tutanota.com"
+ORG_NAME="StellarWinBaby"
+ORG_TWITTER="StellarWinBaby"
+ORG_LOGO="https://i.ibb.co/XWgpKZm/512.png"
+ORG_OFFICIAL_EMAIL="StellarWinBaby@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMAMP"
-issuer="GCRGX2S5CSOCSPN6OFLQQ7GTD4TGEK2UU5SLQU5YPXHFOZV2HEV52M3L"
+code="StellarWin"
+issuer="GCFQUEHBQDLV65QFT3UVZPVVJXYQE232TOQFYA4332RCM5UL6LOAA43F"
 anchor_asset="false"
-name="Stellar AMP"
-desc="Stellar AMP [XLMAMP],The Flexa Network enables crypto-collateralized payments at brick and mortar vendors.The network allows for supported cryptocurrencies like BTC, ETH, and others to be used to pay for goods and services, while the vendor receives payment in fiat.Flexa uses its token, “AMP”, to collateralize crypto-payments while they are confirmed on the respective digital asset networks and settles the payment in fiat to the recipient. This solves a few issues that have plagued the crypto ecosystem like slow confirmation times on networks, price volatility, and broad adoption."
-conditions="There will only ever be 50000000 XLMAMP coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/r4nSS8P/amp.png"
+name="StellarWinBaby"
+desc="StellarWinBaby [StellarWin],its a new updated token that is faster and has no fees."
+conditions="There will only ever be 50000000 StellarWin coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/XWgpKZm/512.png"
 fixed_number=50000000
 max_number=50000000
 is_unlimited=false
-#XLMAMP was issued using the open and inclusive Stellar blockchain network.
+#StellarWin was issued using the open and inclusive Stellar blockchain network.
