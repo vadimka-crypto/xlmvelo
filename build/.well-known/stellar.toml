@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
-"GCFQUEHBQDLV65QFT3UVZPVVJXYQE232TOQFYA4332RCM5UL6LOAA43F"
+"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
+"GDDWXUVQFMH5XYCQ2KW2ZPYVCKBYX5SVAH3K2LXTSH4KTNNQ65Z3MNZT"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="StellarWinBaby"
-ORG_TWITTER="StellarWinBaby"
-ORG_LOGO="https://i.ibb.co/XWgpKZm/512.png"
-ORG_OFFICIAL_EMAIL="StellarWinBaby@tutanota.com"
+ORG_NAME="Pandora's Box"
+ORG_TWITTER="Pandora's Box"
+ORG_LOGO="https://i.ibb.co/TrH1Kpf/Pandoras-Box.webp"
+ORG_OFFICIAL_EMAIL="PandorasBox@tutanota.com"
 
 
 [[CURRENCIES]]
-code="StellarWin"
-issuer="GCFQUEHBQDLV65QFT3UVZPVVJXYQE232TOQFYA4332RCM5UL6LOAA43F"
+code="Pandora"
+issuer="GDDWXUVQFMH5XYCQ2KW2ZPYVCKBYX5SVAH3K2LXTSH4KTNNQ65Z3MNZT"
 anchor_asset="false"
-name="StellarWinBaby"
-desc="StellarWinBaby [StellarWin],its a new updated token that is faster and has no fees."
-conditions="There will only ever be 50000000 StellarWin coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/XWgpKZm/512.png"
-fixed_number=50000000
-max_number=50000000
+name="Pandora's Box"
+desc="Pandora's Box [Pandora],its a new updated token that is faster and has no fees.is an artifact in Greek mythology connected with the myth of Pandora in Hesiod's Works and Days.He reported that curiosity led her to open a container left in care of her husband, thus releasing physical and emotional curses upon mankind. Later depictions of the story have been varied, while some literary and artistic treatments have focused more on the contents than on Pandora herself."
+conditions="There will only ever be 5000000 Pandora coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/TrH1Kpf/Pandoras-Box.webp"
+fixed_number=5000000
+max_number=5000000
 is_unlimited=false
-#StellarWin was issued using the open and inclusive Stellar blockchain network.
+#Pandora was issued using the open and inclusive Stellar blockchain network.
