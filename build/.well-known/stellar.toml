@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GAHVBYSKQZGEBAPUQULFUGHUSYQ3NCNVJM2HVEN2ZH6T4M34T2CONZT2",
-"GDDWXUVQFMH5XYCQ2KW2ZPYVCKBYX5SVAH3K2LXTSH4KTNNQ65Z3MNZT"
+"GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
+"GBE7V5NWAUEGL6Y4SDUMHVT4WAMGJ637PSVXOCLPCSGVA6IIG42PGHVL"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Pandora's Box"
-ORG_TWITTER="Pandora's Box"
-ORG_LOGO="https://i.ibb.co/TrH1Kpf/Pandoras-Box.webp"
-ORG_OFFICIAL_EMAIL="PandorasBox@tutanota.com"
+ORG_NAME="XLMNEON"
+ORG_TWITTER="XLMNEON"
+ORG_LOGO="https://i.ibb.co/WFh8KGR/611l-PNi1-G0-L-AC-SX466.jpg"
+ORG_OFFICIAL_EMAIL="XLMNEON@tutanota.com"
 
 
 [[CURRENCIES]]
-code="Pandora"
-issuer="GDDWXUVQFMH5XYCQ2KW2ZPYVCKBYX5SVAH3K2LXTSH4KTNNQ65Z3MNZT"
+code="XLMNEON"
+issuer="GBE7V5NWAUEGL6Y4SDUMHVT4WAMGJ637PSVXOCLPCSGVA6IIG42PGHVL"
 anchor_asset="false"
-name="Pandora's Box"
-desc="Pandora's Box [Pandora],its a new updated token that is faster and has no fees.is an artifact in Greek mythology connected with the myth of Pandora in Hesiod's Works and Days.He reported that curiosity led her to open a container left in care of her husband, thus releasing physical and emotional curses upon mankind. Later depictions of the story have been varied, while some literary and artistic treatments have focused more on the contents than on Pandora herself."
-conditions="There will only ever be 5000000 Pandora coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/TrH1Kpf/Pandoras-Box.webp"
+name="XLMNEON"
+desc="XLMNEON [XLMNEON],its a new updated token that is faster and has no fees."
+conditions="There will only ever be 5000000 XLMNEON coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/WFh8KGR/611l-PNi1-G0-L-AC-SX466.jpg"
 fixed_number=5000000
 max_number=5000000
 is_unlimited=false
-#Pandora was issued using the open and inclusive Stellar blockchain network.
+#XLMNEON was issued using the open and inclusive Stellar blockchain network.
