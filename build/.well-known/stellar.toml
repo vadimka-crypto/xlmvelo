@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
-"GBE7V5NWAUEGL6Y4SDUMHVT4WAMGJ637PSVXOCLPCSGVA6IIG42PGHVL"
+"GDLXJDXTOEFATXXTIFSVI7P7V42TDZSAXQOUGKBYANGQYTIKI4NUMLJZ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMNEON"
-ORG_TWITTER="XLMNEON"
-ORG_LOGO="https://i.ibb.co/WFh8KGR/611l-PNi1-G0-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="XLMNEON@tutanota.com"
+ORG_NAME="XLMSIILVER"
+ORG_TWITTER="XLMSILVER"
+ORG_LOGO="https://i.ibb.co/Msj6qZz/104-1043322-silver-png.png"
+ORG_OFFICIAL_EMAIL="XLMSILVER@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMNEON"
-issuer="GBE7V5NWAUEGL6Y4SDUMHVT4WAMGJ637PSVXOCLPCSGVA6IIG42PGHVL"
+code="XLMSILVER"
+issuer="GDLXJDXTOEFATXXTIFSVI7P7V42TDZSAXQOUGKBYANGQYTIKI4NUMLJZ"
 anchor_asset="false"
-name="XLMNEON"
-desc="XLMNEON [XLMNEON],its a new updated token that is faster and has no fees."
-conditions="There will only ever be 5000000 XLMNEON coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/WFh8KGR/611l-PNi1-G0-L-AC-SX466.jpg"
-fixed_number=5000000
-max_number=5000000
+name="STELLAR SILVER"
+desc="STELLAR SILVER [XLMSILVER],is an indexing protocol for querying data for networks like XLM and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem."
+conditions="There will only ever be 6000000 XLMSILVER coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/Msj6qZz/104-1043322-silver-png.png"
+fixed_number=6000000
+max_number=6000000
 is_unlimited=false
-#XLMNEON was issued using the open and inclusive Stellar blockchain network.
+#XLMSILVER was issued using the open and inclusive Stellar blockchain network.
