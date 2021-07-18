@@ -2,26 +2,26 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
 "GAQV4H4QXD7KZF3KHD63I7VZMUZKGBYJO2ECLRRX6KT2N22243FD3O5X",
-"GDLXJDXTOEFATXXTIFSVI7P7V42TDZSAXQOUGKBYANGQYTIKI4NUMLJZ"
+"GBX6ZX4TCH6GR6JD64J5ZCFSCPS7EZEJXJI7GT6ZW3YITXZB2BNOJJGB"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMSIILVER"
-ORG_TWITTER="XLMSILVER"
-ORG_LOGO="https://i.ibb.co/Msj6qZz/104-1043322-silver-png.png"
-ORG_OFFICIAL_EMAIL="XLMSILVER@tutanota.com"
+ORG_NAME="XLMVELO"
+ORG_TWITTER="XLMVELO"
+ORG_LOGO="https://i.ibb.co/QMWJBk4/vwlo.jpg"
+ORG_OFFICIAL_EMAIL="XLMVELO@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMSILVER"
-issuer="GDLXJDXTOEFATXXTIFSVI7P7V42TDZSAXQOUGKBYANGQYTIKI4NUMLJZ"
+code="XLMVELO"
+issuer="GBX6ZX4TCH6GR6JD64J5ZCFSCPS7EZEJXJI7GT6ZW3YITXZB2BNOJJGB"
 anchor_asset="false"
-name="STELLAR SILVER"
-desc="STELLAR SILVER [XLMSILVER],is an indexing protocol for querying data for networks like XLM and IPFS, powering many applications in both DeFi and the broader Web3 ecosystem."
-conditions="There will only ever be 6000000 XLMSILVER coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
-image="https://i.ibb.co/Msj6qZz/104-1043322-silver-png.png"
-fixed_number=6000000
-max_number=6000000
+name="STELLAR VELO"
+desc="STELLAR VELO [XLMVELO],Velo Labs is building a unique federated credit exchange network. This network is powered by the Velo Protocol, which is a blockchain financial protocol enabling digital credit issuance and borderless asset transfers for businesses using a smart contract system. The project's core mission is to enable partners to safely and securely transfer value between each other in a timely and transparent way. To do this, the Velo Protocol enables its partners to issue digital credits via a smart contract layer, using the Stellar Consensus Protocol to process and settle transactions. Within its ecosystem, the Velo Protocol enables multiple business use cases that are all based on its core function: issuing collateral-backed digital credits, which correspond to any fiat currency that can be used for frictionless value transfer."
+conditions="There will only ever be 10000000 XLMVELO coins in honor and support of law enforcement Now and Forever. Issuer Allows Any Stellar Account To Add This Asset. "
+image="https://i.ibb.co/QMWJBk4/vwlo.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLMSILVER was issued using the open and inclusive Stellar blockchain network.
+#XLMVELO was issued using the open and inclusive Stellar blockchain network.
